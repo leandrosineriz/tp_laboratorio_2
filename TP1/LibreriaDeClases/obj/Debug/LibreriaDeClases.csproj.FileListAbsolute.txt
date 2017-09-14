@@ -1,0 +1,4 @@
+C:\Users\Leo\Desktop\TP1\TP1\LibreriaDeClases\bin\Debug\LibreriaDeClases.dll
+C:\Users\Leo\Desktop\TP1\TP1\LibreriaDeClases\bin\Debug\LibreriaDeClases.pdb
+C:\Users\Leo\Desktop\TP1\TP1\LibreriaDeClases\obj\Debug\LibreriaDeClases.dll
+C:\Users\Leo\Desktop\TP1\TP1\LibreriaDeClases\obj\Debug\LibreriaDeClases.pdb
