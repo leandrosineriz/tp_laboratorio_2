@@ -1,0 +1,29 @@
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Leo\Desktop\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\Exepciones.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\Exepciones.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\ClasesInstanciables\bin\Debug\Archivos.pdb

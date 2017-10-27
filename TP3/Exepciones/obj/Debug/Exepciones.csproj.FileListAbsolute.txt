@@ -1,0 +1,15 @@
+C:\Users\Leo\Desktop\TP3\TP3\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\TP3\TP3\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\TP3\TP3\Exepciones\obj\Debug\Exepciones.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\TP3\TP3\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\TP3\TP3\Exepciones\obj\Debug\Exepciones.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Exepciones\bin\Debug\Exepciones.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Exepciones\bin\Debug\Exepciones.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Exepciones\obj\Debug\Exepciones.csprojResolveAssemblyReference.cache
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Exepciones\obj\Debug\Exepciones.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Exepciones\obj\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Exepciones\obj\Debug\Exepciones.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Exepciones\obj\Debug\Exepciones.pdb

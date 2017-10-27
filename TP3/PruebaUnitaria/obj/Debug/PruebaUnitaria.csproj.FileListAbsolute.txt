@@ -1,0 +1,13 @@
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\PruebaUnitaria.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\PruebaUnitaria.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\ClasesAbstractas.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\ClasesInstanciables.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\Archivos.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\bin\Debug\Archivos.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\obj\Debug\PruebaUnitaria.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\obj\Debug\PruebaUnitaria.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\PruebaUnitaria\obj\Debug\PruebaUnitaria.pdb

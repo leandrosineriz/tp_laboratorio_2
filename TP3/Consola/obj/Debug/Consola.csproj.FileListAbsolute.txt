@@ -1,0 +1,45 @@
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\Leo\Desktop\TP3\TP3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\Consola.exe
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\ClasesAbstractas.dll
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\ClasesInstanciables.dll
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Leo\Desktop\TP3\TP3\Consola\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\TP3\TP3\Consola\obj\Debug\Consola.exe
+C:\Users\Leo\Desktop\TP3\TP3\Consola\obj\Debug\Consola.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\Consola.exe.config
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\obj\Debug\Consola.exe
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\obj\Debug\Consola.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\Consola.exe
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\Consola.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\Archivos.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesAbstractas.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesInstanciables.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\Exepciones.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\Archivos.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesAbstractas.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesInstanciables.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\bin\Debug\Exepciones.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\obj\Debug\Consola.exe
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\obj\Debug\Consola.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\Consola.exe
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\Consola.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\Archivos.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesAbstractas.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesInstanciables.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\Archivos.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\TP3\Consola\bin\Debug\Consola.exe.config
+C:\Users\Leo\Desktop\TP3\Consola\obj\Debug\Consola.exe
+C:\Users\Leo\Desktop\TP3\Consola\obj\Debug\Consola.pdb

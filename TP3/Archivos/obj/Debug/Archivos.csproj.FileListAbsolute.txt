@@ -1,0 +1,19 @@
+C:\Users\Leo\Desktop\TP3\TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\TP3\TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Leo\Desktop\TP3\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Leo\Desktop\TP3\TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Leo\Desktop\TP3\TP3\Archivos\obj\Debug\Archivos.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Archivos\bin\Debug\Archivos.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Archivos\bin\Debug\Archivos.pdb
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Archivos\obj\Debug\Archivos.dll
+D:\LeandroSiñeriz\Clase 19\TP3\TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\bin\Debug\Exepciones.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\bin\Debug\Exepciones.pdb
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\bin\Debug\ClasesAbstractas.dll
+C:\Users\Leo\Desktop\Clase 19\TP3\TP3\Archivos\bin\Debug\ClasesAbstractas.pdb
